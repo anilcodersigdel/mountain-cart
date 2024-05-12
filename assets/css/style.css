@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+h1{
+    padding-top: 1.5rem;
+    text-align: center;
+}
+
+img{
+    height: 250px;
+    width: 350px;
+    object-fit: cover;
+}
+.content{
+    background-color: #ded7d6;
+    padding: 1.3rem;
+    /* border: 2px solid green; */
+    border-radius: 10px;
+}
+.container{
+    padding: 5.5rem;
+    display: flex;
+    gap: 1.2rem;
+
+}
+.content p{
+    padding-top: 10px;
+    text-align: justify;
+}
